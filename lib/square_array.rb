@@ -6,3 +6,4 @@ def square_array(array)
   new_numbers = array
   counter += 1
 end
+end

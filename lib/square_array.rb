@@ -1,3 +1,6 @@
+counter = 0
+
 def square_array(array)
-  # your code here
+  array.length
+  new_numbers = array
 end
